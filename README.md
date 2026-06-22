@@ -35,7 +35,7 @@ Inspired by systems like **Kafka**, **RabbitMQ**, and **Redis Pub/Sub**, MiniMQ 
 
 > **Demo Video**
 
-[▶ Watch Demo Video](demo.mp4)
+[▶ Click here to watch the high-resolution demo video on Google Drive](https://drive.google.com/file/d/10Ns-CAmjnWj6PBIcOWSPgCvxvXim34TT/view?usp=drive_link)
 
 ---
 
